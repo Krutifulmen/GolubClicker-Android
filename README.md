@@ -1,2 +1,2 @@
-# GolubClicker-Androif
+# GolubClicker-Android
 Click the pigeon!
